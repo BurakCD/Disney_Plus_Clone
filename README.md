@@ -7,3 +7,5 @@ Invio Bootcamp Assignment Clone App
 * Custom Font
 * reverse engineering :)
 * makeramen.roundedImageView
+
+![Disney Plus Clone App](https://raw.githubusercontent.com/BurakCD/Disney_Plus_Clone/master/app/src/main/Screenshot_1666053524.png)
